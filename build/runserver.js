@@ -2,7 +2,7 @@ var fs = require('fs');
 var http = require('http');
 
 var _path = "index.html";
-var _basePath = "E:/ide"
+var _basePath = "E:/CodeSource/ide";
 
 
 http.createServer(function (req, res) {

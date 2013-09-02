@@ -11,7 +11,7 @@ require.config({
     },
     shim: {
         'jqueryui': {deps: ['jquery']},
-        'jqLayout': {deps: ['jquery']},
+        'jqLayout': {deps: ['jquery','jqueryui']},
         'underscore': {exports: '_'},
         'mTemp': {deps: ['jquery', 'underscore']}
 
