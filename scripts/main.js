@@ -6,7 +6,8 @@ require.config({
         jqueryui: 'jquery-ui-latest',
         underscore: 'underscore',
         mTemp: 'mTemp',
-        idecore: '../idecore'
+        idecore: '../idecore',
+        ace:'ace/ace'
 
     },
     shim: {
@@ -29,7 +30,6 @@ require([
         if (!window.console) console = {log: function () { }};
         mtemp.config({
             pageUrl: 'views'
-
         }).Start();
         $('body').layout({ applyDefaultStyles: true });
     });

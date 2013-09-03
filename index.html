@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-
-    <title>Layout Container</title>
-     <script type="text/javascript " data-main="scripts/main" src="scripts/lib/require.js"></script>
+    <title>Code9</title>
     <link type="text/css" rel="stylesheet" href="/css/layout-default-latest.css" />
+    <link type="text/css" rel="stylesheet" href="scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/jquery-ui-1.10.3.custom.min.css" />
+    <link type="text/css" rel="stylesheet" href="/css/base.css" />
+     <script type="text/javascript " data-main="scripts/main" src="scripts/lib/require.js"></script>
+
 </head>
 <body>
-<div class="ui-layout-center">Center</div>
-<div class="ui-layout-north">North</div>
+<div class="ui-layout-center">{{page>editor}}</div>
+<div class="ui-layout-north"></div>
 <div class="ui-layout-south">{{page>console}}</div>
 <div class="ui-layout-east">{{page>browser}}</div>
-<div class="ui-layout-west">West</div>
+<div class="ui-layout-west">{{page>filetree}}</div>
 </body>
 </html>
