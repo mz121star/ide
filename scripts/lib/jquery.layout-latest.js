@@ -162,7 +162,7 @@
                 }
                 ,	cssDemo: { // DEMO CSS - applied if: options.PANE.applyDemoStyles=true
                     overflow:	"auto"
-                    ,	padding:	"10px"
+                    ,	padding:	"0px"
                 }
                 ,	cssDemoPane: { // DEMO CSS - REMOVE scrolling from 'pane' when it has a content-div
                     overflow:	"hidden"
@@ -176,7 +176,7 @@
                     //	$.layout.defaults.zIndexes.pane_normal
                 }
                 ,	cssDemo: { // DEMO CSS - applied if: options.PANE.applyDemoStyles=true
-                    padding:	"10px"
+                    padding:	"0px"
                     ,	background:	"#FFF"
                     ,	border:		"1px solid #BBB"
                     ,	overflow:	"auto"

@@ -7,15 +7,15 @@ require.config({
         underscore: 'underscore',
         mTemp: 'mTemp',
         idecore: '../idecore',
-        ace:'ace/ace'
-
+        ace:'ace/ace',
+        editorhelper:'../editorhelper'
     },
     shim: {
         'jqueryui': {deps: ['jquery']},
         'jqLayout': {deps: ['jquery','jqueryui']},
         'underscore': {exports: '_'},
-        'mTemp': {deps: ['jquery', 'underscore']}
-
+        'mTemp': {deps: ['jquery', 'underscore','ace']},
+        'editorhelper':{deps: ['ace']}
     }
     //,
     //urlArgs: 'v=1.0.0.1'
@@ -24,7 +24,8 @@ require([
     'jquery',
     'jqueryui',
     'jqLayout',
-    'mTemp'
+    'mTemp',
+    'ace'
 ],
     function ($, jqueryui, jqlayout, mtemp) {
         if (!window.console) console = {log: function () { }};

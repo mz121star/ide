@@ -4043,3 +4043,15 @@ body {
     margin: 0.4em 0.2em 0 0;
     cursor: pointer;
 }
+
+
+#editor {
+margin: 0;
+position: absolute;
+top: 34px;
+bottom: 0;
+left: 0;
+right: 0;
+}
+
+.ui-widget-content{height: 100%}
