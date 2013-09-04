@@ -84,6 +84,30 @@ define(['editorhelper'], function (helper) {
             editor.session.setMode("ace/mode/javascript");
 */
             helper.addEditor("editor");
+            $.ajax({
+                type: "get",
+                url: "test/data.js" ,
+                dataType:"json"
+            }).done(function (data) {
+                    codes=data.code;
+                    $.each(codes,function(i,item){
+                        var title=item.title;
+                        var content=item.content;
+                        var label = title,
+                            id = "tabs-" + tabCounter,
+                            li = $(tabTemplate.replace(/#\{href\}/g, "#" + id).replace(/#\{label\}/g, label)),
+                            tabContentHtml = tabContent.val() || "Tab " + tabCounter + " content.";
+                        tabContentHtml="<pre id='"+id+"'>"+tabContentHtml+"</pre>"
+                        tabs.find(".ui-tabs-nav").append(li);
+                        tabs.append("<div id='" + id + "'><p>" + content + "</p></div>");
+                        tabs.tabs("refresh");
+                        tabCounter++;
+                        helper.addEditor(id) ;
+                    })
+
+
+                });
+
         }
     };
     return EditorController;
