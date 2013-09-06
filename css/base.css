@@ -4054,4 +4054,7 @@ left: 0;
 right: 0;
 }
 
-.ui-widget-content{height: 100%}
+.ui-widget-content{height: 93%;}
+#Output{overflow: scroll}
+#Terminal{background-color: black;
+    color: white;}

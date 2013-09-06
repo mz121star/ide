@@ -73,6 +73,14 @@ define([], function () {
                 }
             };
         };
+
+        $("#accordion-info").append("<div><span>Module Name:</span>:<input type='text' value='"+GlobalData.siteinfo.module_name+"' /></span></div>") ;
+        $("#accordion-info").append("<div><span>URL</span>:<br/><span><a target='_blank' href='"+GlobalData.siteinfo.url+"'>"+GlobalData.siteinfo.url+"</a></span></span></div>") ;
+
+        $("#accordion-info").css("height","300px");
+
+
+
     };
     return FileTreeController;
 })
