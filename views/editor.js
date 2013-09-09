@@ -128,7 +128,6 @@ define(['editorhelper'], function (editorhelper) {
                     });
 
                 });
-
         }
     };
     return EditorController;

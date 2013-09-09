@@ -2,195 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-chromevox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-elastic_tabstops_lite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-emmet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-keybinding_menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-language_tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-modelist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-old_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-searchbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-settings_menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-spellcheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-split.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-static_highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-statusbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-textarea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-themelist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/ext-whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/snippets/html_completions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/jquery-ui-1.10.3.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/jquery-ui-1.10.3.custom/css/smoothness/jquery-ui-1.10.3.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/keybinding-emacs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/keybinding-vim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-abap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-actionscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-ada.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-asciidoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-assembly_x86.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-autohotkey.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-batchfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-c9search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-c_cpp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-clojure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-cobol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-coffee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-coldfusion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-csharp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-curly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-diff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-django.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-dot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-erlang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-forth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-ftl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-glsl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-golang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-groovy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-haml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-haskell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-haxe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-html_completions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-html_ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-ini.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-jade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-java.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-jsoniq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-jsp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-jsx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-julia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-latex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-less.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-liquid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-lisp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-livescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-logiql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-lsl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-lua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-luapage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-lucene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-makefile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-matlab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-mushcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-mushcode_high_rules.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-mysql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-objectivec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-ocaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-pascal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-perl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-pgsql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-php.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-plain_text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-powershell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-prolog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-properties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-python.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-r.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-rdoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-rhtml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-rust.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-sass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-scad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-scala.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-scheme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-scss.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-sh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-snippets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-sql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-stylus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-svg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-tcl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-tex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-textile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-toml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-twig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-typescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-vbscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-verilog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-xquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/mode-yaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/snippets/plain_text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-ambiance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-chaos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-chrome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-clouds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-clouds_midnight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-cobalt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-crimson_editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-dawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-dreamweaver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-eclipse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-github.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-idle_fingers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-kr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-merbivore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-merbivore_soft.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-mono_industrial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-monokai.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-pastel_on_dark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-solarized_dark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-solarized_light.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-terminal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-textmate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-tomorrow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-tomorrow_night.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-tomorrow_night_blue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-tomorrow_night_bright.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-tomorrow_night_eighties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-twilight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-vibrant_ink.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/theme-xcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/worker-coffee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/worker-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/worker-javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/worker-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/worker-lua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/worker-php.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/lib/ace/worker-xquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/editor.js" afterPath="$PROJECT_DIR$/views/editor.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ide.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378348300751" ignored="false" />
-    <file path="/main.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378435773309" ignored="false" />
+    <file path="/main.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378693287707" ignored="false" />
     <file path="/browser.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378187044560" ignored="false" />
     <file path="/idecore.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378112088612" ignored="false" />
     <file path="/mTemp.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378195340331" ignored="false" />
-    <file path="/Dummy.txt" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378456665620" ignored="false" />
-    <file path="/console.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378446819870" ignored="false" />
+    <file path="/Dummy.txt" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378689068083" ignored="false" />
+    <file path="/console.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378696070849" ignored="false" />
     <file path="/console.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378431764979" ignored="false" />
     <file path="/browser.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378435960825" ignored="false" />
-    <file path="/editor.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378447831550" ignored="false" />
-    <file path="/editor.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378372639969" ignored="false" />
+    <file path="/editor.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378695923472" ignored="false" />
+    <file path="/editor.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378695777965" ignored="false" />
     <file path="/filetree.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378434649157" ignored="false" />
     <file path="/controlltemp.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378198613127" ignored="false" />
-    <file path="E:/CDMS2/public/ide/scripts/main.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378363110800" ignored="false" />
+    <file path="E:/CDMS2/public/ide/scripts/main.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378704992054" ignored="false" />
     <file path="E:/CDMS2/public/ide/scripts/lib/mTemp.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378360925094" ignored="false" />
     <file path="/base.css" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378434911245" ignored="false" />
     <file path="E:/ace/demo/keyboard_shortcuts.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378274447969" ignored="false" />
@@ -201,13 +31,17 @@
     <file path="/menu.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378348732505" ignored="false" />
     <file path="/hotkeys.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378437959086" ignored="false" />
     <file path="E:/CDMS2/public/ide/views/controlltemp.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378360925094" ignored="false" />
-    <file path="E:/CDMS2/public/ide/views/console.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378360925094" ignored="false" />
-    <file path="E:/CDMS2/public/ide/views/browser.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378360925094" ignored="false" />
-    <file path="E:/CDMS2/public/ide/index.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378360925094" ignored="false" />
-    <file path="E:/CDMS2/public/ide/views/editor.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378360925094" ignored="false" />
+    <file path="E:/CDMS2/public/ide/views/console.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378690310483" ignored="false" />
+    <file path="E:/CDMS2/public/ide/views/browser.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378709427797" ignored="false" />
+    <file path="E:/CDMS2/public/ide/index.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378690310483" ignored="false" />
+    <file path="E:/CDMS2/public/ide/views/editor.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378695777965" ignored="false" />
     <file path="/jquery.url.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378361983241" ignored="false" />
-    <file path="E:/CDMS2/public/ide/views/editor.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378362998842" ignored="false" />
-    <file path="/filetree.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378452598671" ignored="false" />
+    <file path="E:/CDMS2/public/ide/views/editor.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378695924222" ignored="false" />
+    <file path="/filetree.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378704107596" ignored="false" />
+    <file path="E:/CDMS2/public/ide/scripts/editorhelper.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378690310482" ignored="false" />
+    <file path="E:/CDMS2/public/ide/scripts/hotkeys.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378692532678" ignored="false" />
+    <file path="E:/CDMS2/public/ide/views/console.js" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378696185559" ignored="false" />
+    <file path="E:/CDMS2/public/ide/views/filetree.html" changelist="4fd609f5-90d4-4ba6-a1f4-1579190caa9a" time="1378704102813" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +73,7 @@
       <file leaf-file-name="filetree.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/filetree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="49" selection-start="3290" selection-end="3290" vertical-scroll-proportion="0.0">
+            <state line="76" column="106" selection-start="3005" selection-end="3015" vertical-scroll-proportion="-8.52">
               <folding />
             </state>
           </provider>
@@ -272,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mode-autohotkey.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mode-autohotkey.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/lib/ace/mode-autohotkey.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="149" selection-start="65466" selection-end="65466" vertical-scroll-proportion="0.2746781">
+            <state line="178" column="16" selection-start="65823" selection-end="65823" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -283,26 +117,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="editor.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/editor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="2" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
+            <state line="116" column="60" selection-start="5058" selection-end="5082" vertical-scroll-proportion="0.43211678">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/menu.js">
+      <file leaf-file-name="idecore.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/idecore.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -310,10 +135,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="jquery.url.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/lib/jquery.url.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="1102" selection-end="1446" vertical-scroll-proportion="0.0">
+            <state line="33" column="2" selection-start="833" selection-end="834" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -348,11 +184,11 @@
         <option value="$PROJECT_DIR$/views/browser.js" />
         <option value="$PROJECT_DIR$/scripts/hotkeys.js" />
         <option value="$PROJECT_DIR$/views/console.js" />
-        <option value="$PROJECT_DIR$/views/editor.js" />
         <option value="$PROJECT_DIR$/scripts/editorhelper.js" />
         <option value="$PROJECT_DIR$/views/filetree.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/views/filetree.html" />
+        <option value="$PROJECT_DIR$/views/editor.js" />
       </list>
     </option>
   </component>
@@ -388,7 +224,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -477,28 +312,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ace" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ide" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -533,18 +346,19 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="E:/ace" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -653,7 +467,11 @@
       <created>1378453302544</created>
       <updated>1378453302544</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixed bug">
+      <created>1378456904098</created>
+      <updated>1378456904098</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -683,8 +501,8 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.49964714" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25688073" sideWeight="0.77807134" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22192867" sideWeight="0.5765702" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25688073" sideWeight="0.7782427" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22175732" sideWeight="0.5765702" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45048815" sideWeight="0.4234298" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -766,16 +584,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/lib/jquery.hotkeys-0.7.9.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="15" selection-start="1977" selection-end="1977" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/hotkeys.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="5" selection-start="447" selection-end="563" vertical-scroll-proportion="0.44186047" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/editor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="1" selection-start="534" selection-end="534" vertical-scroll-proportion="-8.464286" />
@@ -784,25 +592,6 @@
     <entry file="file://$PROJECT_DIR$/views/console.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="129" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/editor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="28" selection-start="2254" selection-end="2254" vertical-scroll-proportion="-7.72" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/editorhelper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="41" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="1102" selection-end="1446" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -822,13 +611,6 @@
     <entry file="file://$PROJECT_DIR$/views/menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/filetree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="49" selection-start="3290" selection-end="3290" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -856,17 +638,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="206" selection-start="122" selection-end="303" vertical-scroll-proportion="0.031932775">
-          <folding />
-        </state>
+        <state line="5" column="206" selection-start="122" selection-end="303" vertical-scroll-proportion="0.031932775" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/lib/ace/mode-autohotkey.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="149" selection-start="65466" selection-end="65466" vertical-scroll-proportion="0.2746781">
+        <state line="178" column="16" selection-start="65823" selection-end="65823" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/lib/jquery.url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/idecore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="2" selection-start="833" selection-end="834" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/editorhelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="41" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/filetree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="106" selection-start="3005" selection-end="3015" vertical-scroll-proportion="-8.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/editor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="60" selection-start="5058" selection-end="5082" vertical-scroll-proportion="0.43211678">
+          <folding />
         </state>
       </provider>
     </entry>
